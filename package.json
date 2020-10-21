@@ -1,0 +1,23 @@
+{
+  "name": "obotTelegram",
+  "version": "1.0.0",
+  "description": "exemplo de chatbot no telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanafariasbn/obotTelegram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanafariasbn/obotTelegram/issues"
+  },
+  "homepage": "https://github.com/luanafariasbn/obotTelegram#readme",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
